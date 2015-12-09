@@ -1,16 +1,15 @@
 
 // Update with new data from server
-function update(query) {
+function update() {
+
+  var query = $('#query').val();
   var url = 'https://turing-twitter.herokuapp.com/' + query;
 
-  // Create temp data
-  url = '/data.json';
+  // var url = 'data.json';
 
   $.get(url,function(data){
-    console.log(data);
     showTweets(data.tweets);
     // showRaw(data);
-
   })
 }
 
@@ -23,14 +22,14 @@ function showRaw(data){
 // Create a list of tweets
 function showTweets(tweets) {
   var list = $('#tweets');
+  list.html('');
 
   // Loop through all tweets
   for (var i in tweets){
 
     // If the tweet has been retweeted then add a line to the list
-    if (tweets[i].retweetCount > 0){
-      addTweet(list,tweets[i]);
-    }
+    addTweet(list,tweets[i]);
+  
   }
 
   // Show the list
@@ -52,6 +51,9 @@ function addTweet(list, tweet) {
   } else {
     line.addClass('positive')
   }
+
+  var date = new Date(tweet.createdAt);
+  console.log(date.getFullYear());
 
   // Add the line to the list
   list.append(line);
