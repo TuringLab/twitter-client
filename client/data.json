@@ -1,807 +1,907 @@
 {
   "tweets": [
     {
+      "polarity": 0.14285714285714285,
+      "createdAt": "Wed Dec 09 18:02:41 +0000 2015",
       "coordinates": null,
+      "retweetCount": 0,
+      "username": "ScottScanlon",
+      "subjectivity": 0.4178571428571428,
+      "text": "Is Personal Branding Right For You? https://t.co/EZv6RAaL3P"
+    },
+    {
+      "polarity": 0,
+      "createdAt": "Wed Dec 09 18:02:36 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 616,
+      "username": "LucyThevamps12",
+      "subjectivity": 0.41071428571428575,
+      "text": "RT @TheVampsJames: Line of work. If someone simply turns up and fights or plays without such branding, keeping themselves private... @Shela…"
+    },
+    {
+      "polarity": 0.14285714285714285,
+      "createdAt": "Wed Dec 09 18:02:36 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 0,
+      "username": "CurationTraffic",
+      "subjectivity": 0.4178571428571428,
+      "text": "Is Personal Branding Right For You? https://t.co/r5jE1XqDDm"
+    },
+    {
+      "polarity": 0.14285714285714285,
+      "createdAt": "Wed Dec 09 18:02:34 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 0,
+      "username": "YouBrandInc",
+      "subjectivity": 0.4178571428571428,
+      "text": "Is Personal Branding Right For You? https://t.co/kXnKFXWhSn"
+    },
+    {
+      "polarity": 0.14285714285714285,
+      "createdAt": "Wed Dec 09 18:02:32 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 0,
+      "username": "NoteworthyWifey",
+      "subjectivity": 0.4178571428571428,
+      "text": "Is Personal Branding Right For You? https://t.co/7y0q6h1KcW"
+    },
+    {
+      "polarity": 0.03333333333333333,
+      "createdAt": "Wed Dec 09 18:02:29 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 3,
+      "username": "Lobzmarele",
+      "subjectivity": 0.06666666666666667,
+      "text": "RT @GrowthHackerAm: How To Find Your Brand’s Social Truth https://t.co/cDW9sCiBFy #socialmedia #branding #truth"
+    },
+    {
+      "polarity": 0.14285714285714285,
+      "createdAt": "Wed Dec 09 18:02:29 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 0,
+      "username": "KaraJackson",
+      "subjectivity": 0.4178571428571428,
+      "text": "Is Personal Branding Right For You? https://t.co/mgwLvNUBw7"
+    },
+    {
+      "polarity": 0.03333333333333333,
+      "createdAt": "Wed Dec 09 18:02:27 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 3,
+      "username": "nilsonliscano",
+      "subjectivity": 0.06666666666666667,
+      "text": "RT @GrowthHackerAm: How To Find Your Brand’s Social Truth https://t.co/cDW9sCiBFy #socialmedia #branding #truth"
+    },
+    {
+      "polarity": 0.05,
+      "createdAt": "Wed Dec 09 18:02:20 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 0,
+      "username": "GaryHyman",
+      "subjectivity": 0.2,
+      "text": "12 Industry Professional https://t.co/JxlOQc0HBR on Personal Branding #slideshare #socialmedia #strategy"
+    },
+    {
+      "polarity": 0.5,
+      "createdAt": "Wed Dec 09 18:02:19 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 0,
+      "username": "Adfresco_TV",
+      "subjectivity": 0.5,
+      "text": "The 10 Most Watched Ads on YouTube in 2015 https://t.co/EG5Fzz2Ho9"
+    },
+    {
+      "polarity": 0,
+      "createdAt": "Wed Dec 09 18:02:18 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 0,
+      "username": "marketing2020EB",
+      "subjectivity": 0.3,
+      "text": "Short & on every device: That’s what Millennials want mobile video ads to be \n https://t.co/OHLQHeysaM"
+    },
+    {
+      "polarity": 0,
+      "createdAt": "Wed Dec 09 18:02:17 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 0,
+      "username": "MBVermeer",
+      "subjectivity": 0.3,
+      "text": "Short & on every device: That’s what Millennials want mobile video ads to be \n https://t.co/SrWDRq2PZW"
+    },
+    {
+      "polarity": 0.42499999999999993,
+      "createdAt": "Wed Dec 09 18:02:16 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 0,
+      "username": "kylemusserco",
+      "subjectivity": 0.65,
+      "text": "good #design = CREDIBILITY + TRUST  + CONNECTION + RELIABILITY + AUTHORITY + PROFESSIONAL + INNOVATIVE  & RELEVANT #ui #ux #branding #dclabs"
+    },
+    {
+      "polarity": 0.2857142857142857,
+      "createdAt": "Wed Dec 09 18:02:09 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 0,
+      "username": "Marketing4Tek",
+      "subjectivity": 0.5357142857142857,
+      "text": "How to Build the Right Brand Identity for Your Company https://t.co/sOW4sBX5fM #branding #marketing #brand #strategy"
+    },
+    {
+      "polarity": 0,
+      "createdAt": "Wed Dec 09 18:02:08 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 0,
+      "username": "EmmaRoutley",
+      "subjectivity": 0,
+      "text": "After reading article in @MuseumsAssoc then I need to visit @MuseumofBrands ! It looks fab! #socialculture #branding"
+    },
+    {
       "polarity": 1,
-      "text": "I just donated to Wounded Warrior Project. Join me by donating to this great organization today! https://t.co/J3xFqAtc5w",
-      "retweets": 0,
+      "createdAt": "Wed Dec 09 18:02:07 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 0,
+      "username": "CardozaGab",
       "subjectivity": 0.75,
-      "user": "meeshyamps"
+      "text": "Great article about #brand #disruption! #Branding #Business #Innovation  https://t.co/BeJy2c8gUY"
     },
     {
+      "polarity": 0.27619047619047615,
+      "createdAt": "Wed Dec 09 18:02:05 +0000 2015",
       "coordinates": null,
+      "retweetCount": 0,
+      "username": "whitmullings",
+      "subjectivity": 0.561904761904762,
+      "text": "Apple's Smart Battery Case vs. the competition: \nApple's Smart Battery Case is available ... https://t.co/pSskxJrXjR #Branding #Marketing"
+    },
+    {
+      "polarity": 0.375,
+      "createdAt": "Wed Dec 09 18:01:55 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 3,
+      "username": "LiquidArtHouse",
+      "subjectivity": 0.6,
+      "text": "RT @ShannonsPeace: Thanks @theimproper for printing #WholeU #Branding workshop w/ @meganmarini @LiquidArtHouse -This Sunday! :) https://t.c…"
+    },
+    {
       "polarity": 0,
-      "text": "An undefined problem has an infinite number of solutions #USA https://t.co/o7AzgJdeRS",
-      "retweets": 0,
+      "createdAt": "Wed Dec 09 18:01:51 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 616,
+      "username": "zxynicotine",
+      "subjectivity": 0.41071428571428575,
+      "text": "RT @TheVampsJames: Line of work. If someone simply turns up and fights or plays without such branding, keeping themselves private... @Shela…"
+    },
+    {
+      "polarity": 0.3020833333333333,
+      "createdAt": "Wed Dec 09 18:01:50 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 0,
+      "username": "ISCTeamwear",
+      "subjectivity": 0.35833333333333334,
+      "text": "CLASSIC - A full playing kit and a performance hoody - featuring club branding, colours and sponsors - from £59.99! https://t.co/aQkRiFBoVB"
+    },
+    {
+      "polarity": 0,
+      "createdAt": "Wed Dec 09 18:01:49 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 0,
+      "username": "Allyourfashion",
       "subjectivity": 0,
-      "user": "YBGAffiliates"
+      "text": "NO MATTER is hiring Branding & Digital Content interns in NYC - Fashionista (blog) https://t.co/zzqFh5hgT0"
     },
     {
-      "coordinates": null,
       "polarity": 0,
-      "text": "Just got my 11s 😆😍",
-      "retweets": 0,
+      "createdAt": "Wed Dec 09 18:01:41 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 0,
+      "username": "dskahoopay",
       "subjectivity": 0,
-      "user": "undefined_love4"
+      "text": "3 Trends Transforming How We Watch Ads https://t.co/3cBoReJi5R"
     },
     {
-      "coordinates": null,
-      "polarity": 0.8,
-      "text": "DO YOU WANNA WIN A PS4 ENTER HERE https://t.co/c1sNxcQ9r9 undefined",
-      "retweets": 0,
-      "subjectivity": 0.4,
-      "user": "Jack_beastGameZ"
-    },
-    {
-      "coordinates": null,
       "polarity": 0,
-      "text": "undefined",
-      "retweets": 0,
+      "createdAt": "Wed Dec 09 18:01:40 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 0,
+      "username": "carlosftt",
       "subjectivity": 0,
-      "user": "ElyagiiYago"
+      "text": "How to Build Up Your Influence on #SocialMedia - https://t.co/lu0DxzgIxM #Marketing #Branding"
     },
     {
-      "coordinates": null,
       "polarity": 0,
-      "text": "undefined method `hello=` for `is it you i'm`",
-      "retweets": 0,
+      "createdAt": "Wed Dec 09 18:01:39 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 0,
+      "username": "Whiteroom_UK",
       "subjectivity": 0,
-      "user": "cloked_in_code"
+      "text": "'Pantone's Colour of the Year 2016: The Importance of Colour in Branding' https://t.co/F9ZotAPCjK #ColourOfTheYear https://t.co/HrhMvQ6mlK"
     },
     {
+      "polarity": -0.16666666666666669,
+      "createdAt": "Wed Dec 09 18:01:39 +0000 2015",
       "coordinates": null,
+      "retweetCount": 0,
+      "username": "SavvyNewcomer",
+      "subjectivity": 0.8666666666666667,
+      "text": "A Translation Site's Clever Recipe Taste Test Shows How Wrong Google Translate Can Be https://t.co/9rmWfUY4TU"
+    },
+    {
       "polarity": 0,
-      "text": "RT @IndieNationfm: @Undefined901 - The 18th Chamber #album #review #NSFW #hip-hop https://t.co/3KiixvLMsN https://t.co/fKTEV8PwVq",
-      "retweets": 1,
+      "createdAt": "Wed Dec 09 18:01:34 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 0,
+      "username": "taigdesign",
       "subjectivity": 0,
-      "user": "undefined901"
+      "text": "Branding for an attention-deficit generation | https://t.co/E0yDUh6ZX3 https://t.co/6dEhSv449x"
     },
     {
+      "polarity": 0.3333333333333333,
+      "createdAt": "Wed Dec 09 18:01:34 +0000 2015",
       "coordinates": null,
-      "polarity": 1,
-      "text": "Enter to WIN a 6 month Netflix membership from @holdin_holden! Click here!  undefined",
-      "retweets": 0,
-      "subjectivity": 0.4,
-      "user": "KileyLee1"
+      "retweetCount": 0,
+      "username": "David_Schuemann",
+      "subjectivity": 0.7361111111111112,
+      "text": "How to Write an Outstanding Creative Brief for Alcohol Beverage Branding https://t.co/eCFzOcVAmQ"
     },
     {
-      "coordinates": null,
       "polarity": 0,
-      "text": "BJ's 1-Year Membership  for $19.99\n\nhttps://t.co/iwux25Vufn via LivingSocial",
-      "retweets": 0,
+      "createdAt": "Wed Dec 09 18:01:34 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 0,
+      "username": "CreativAdvertis",
       "subjectivity": 0,
-      "user": "CharlieRoKc"
+      "text": "3 Trends Transforming How We Watch Ads - Adweek https://t.co/BiS4vuBDF2"
     },
     {
-      "coordinates": null,
       "polarity": 0,
-      "text": "drawn into the stream of undefined ilusionsssss",
-      "retweets": 0,
+      "createdAt": "Wed Dec 09 18:01:26 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 0,
+      "username": "InvisibleSignz",
       "subjectivity": 0,
-      "user": "lilasceos"
+      "text": "#investment #advertising #marketing #branding #ads #truck For Sale Video Mobile Billboard truck 4konwheels.… https://t.co/TLs9PdmyBh"
     },
     {
+      "polarity": 0.03333333333333333,
+      "createdAt": "Wed Dec 09 18:01:25 +0000 2015",
       "coordinates": null,
+      "retweetCount": 3,
+      "username": "vittorpia",
+      "subjectivity": 0.06666666666666667,
+      "text": "RT @GrowthHackerAm: How To Find Your Brand’s Social Truth https://t.co/cDW9sCiBFy #socialmedia #branding #truth"
+    },
+    {
+      "polarity": 0.21818181818181817,
+      "createdAt": "Wed Dec 09 18:01:15 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 0,
+      "username": "wedesignlondon",
+      "subjectivity": 0.4772727272727273,
+      "text": "Need a new logo? Get a fresh design from just £70. https://t.co/FN8GKPPmrp @wedesignlondon #logo #design #bizitalk https://t.co/lKsbPBMzN6"
+    },
+    {
       "polarity": 0,
-      "text": "The ACA is Rube Goldberg machine legislation that's was built on piles of faulty assumptions... (1/2)\n https://t.co/mzV1OlU8m3",
-      "retweets": 0,
+      "createdAt": "Wed Dec 09 18:01:14 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 0,
+      "username": "LSPRLondon",
       "subjectivity": 0,
-      "user": "TJoanides"
+      "text": "Nike bags LeBron James in lifetime contract https://t.co/QGHVipXFWT #branding #brand #pr"
     },
     {
-      "coordinates": null,
-      "polarity": 0.3125,
-      "text": "RT @seculardotorg: Help us get a record number of Representatives supporting #DarwinDay 2016! https://t.co/E6c5X8U1Gd https://t.co/Tzqz4P9x…",
-      "retweets": 4,
-      "subjectivity": 0.25,
-      "user": "veeaycox"
-    },
-    {
-      "coordinates": null,
-      "polarity": 0.3125,
-      "text": "RT @seculardotorg: Help us get a record number of Representatives supporting #DarwinDay 2016! https://t.co/E6c5X8U1Gd https://t.co/Tzqz4P9x…",
-      "retweets": 4,
-      "subjectivity": 0.25,
-      "user": "SecularTX"
-    },
-    {
-      "coordinates": null,
       "polarity": 0,
-      "text": "Check out @deliverydotcom & get undefined when you order from local restaurants and stores",
-      "retweets": 0,
+      "createdAt": "Wed Dec 09 18:01:14 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 0,
+      "username": "JasonVanHouten",
       "subjectivity": 0,
-      "user": "jamestracyny"
+      "text": "3 Trends Transforming How We Watch Ads https://t.co/uUs6ZA44QK #AdvertisingampBranding #Youtube"
     },
     {
+      "polarity": 0.45,
+      "createdAt": "Wed Dec 09 18:01:09 +0000 2015",
       "coordinates": null,
-      "polarity": 0.3125,
-      "text": "RT @seculardotorg: Help us get a record number of Representatives supporting #DarwinDay 2016! https://t.co/E6c5X8U1Gd https://t.co/Tzqz4P9x…",
-      "retweets": 4,
-      "subjectivity": 0.25,
-      "user": "bobdazla"
-    },
-    {
-      "coordinates": null,
-      "polarity": 0.3125,
-      "text": "RT @seculardotorg: Help us get a record number of Representatives supporting #DarwinDay 2016! https://t.co/E6c5X8U1Gd https://t.co/Tzqz4P9x…",
-      "retweets": 4,
-      "subjectivity": 0.25,
-      "user": "Dangermouse1973"
-    },
-    {
-      "coordinates": null,
-      "polarity": 0,
-      "text": "https://t.co/KNBG59gSJX undefined",
-      "retweets": 0,
-      "subjectivity": 0,
-      "user": "dalton_smith23"
-    },
-    {
-      "coordinates": null,
-      "polarity": 0,
-      "text": "RT @Inspired2Share: \"An undefined problem has an infinite number of solutions.\" - Robert A Humphrey",
-      "retweets": 3,
-      "subjectivity": 0,
-      "user": "BruwerVivien"
-    },
-    {
-      "coordinates": null,
-      "polarity": 0,
-      "text": "undefined",
-      "retweets": 0,
-      "subjectivity": 0,
-      "user": "GJkingu"
-    },
-    {
-      "coordinates": null,
-      "polarity": 0,
-      "text": "RT @awudrick: Imagine a party running on, say, tax policy that consisted of \"we'll change the status quo in some undefined way\". https://t.…",
-      "retweets": 1,
-      "subjectivity": 0,
-      "user": "tstewart666"
-    },
-    {
-      "coordinates": null,
-      "polarity": 0,
-      "text": "undefined #@",
-      "retweets": 0,
-      "subjectivity": 0,
-      "user": "nmbasuka1515"
-    },
-    {
-      "coordinates": null,
-      "polarity": 0,
-      "text": "undefined https://t.co/s9hlYVsZKZ",
-      "retweets": 0,
-      "subjectivity": 0,
-      "user": "diana_cabezas_"
-    },
-    {
-      "coordinates": null,
-      "polarity": 0.3125,
-      "text": "Help us get a record number of Representatives supporting #DarwinDay 2016! https://t.co/E6c5X8U1Gd https://t.co/Tzqz4P9x0I",
-      "retweets": 4,
-      "subjectivity": 0.25,
-      "user": "seculardotorg"
-    },
-    {
-      "coordinates": null,
-      "polarity": 0,
-      "text": "RT @ImWithRubio: NYT: “Marco Rubio Quietly Undermines Affordable Care Act” https://t.co/xztCWm3Cjd \n#TeamMarco",
-      "retweets": 1,
-      "subjectivity": 0.3333333333333333,
-      "user": "RosaR069"
-    },
-    {
-      "coordinates": null,
-      "polarity": -0.26,
-      "text": "\"There are very few monsters who warrant the fear we have of them.\" undefined #quote",
-      "retweets": 0,
-      "subjectivity": 0.13,
-      "user": "_busydoc"
-    },
-    {
-      "coordinates": null,
-      "polarity": 0,
-      "text": "https://t.co/hNinLAnoGo undefined",
-      "retweets": 0,
-      "subjectivity": 0,
-      "user": "RNskeet"
-    },
-    {
-      "coordinates": null,
-      "polarity": 0,
-      "text": "RT @AIPAC: Urge your representative in the House to support the #Hezbollah International Financing Prevention Act of 2015 https://t.co/81WI…",
-      "retweets": 4,
-      "subjectivity": 0,
-      "user": "AIPAC2015"
-    },
-    {
-      "coordinates": null,
-      "polarity": 0,
-      "text": "“Yes, for a undefined time, of course.”",
-      "retweets": 0,
-      "subjectivity": 0,
-      "user": "VulpineBandit"
-    },
-    {
-      "coordinates": null,
-      "polarity": 0,
-      "text": "undefined/v/4664331/",
-      "retweets": 0,
-      "subjectivity": 0,
-      "user": "fabio40matos"
-    },
-    {
-      "coordinates": null,
-      "polarity": 1,
-      "text": "I just watched an awesome #YouNow broadcast. undefined tengo 11 años te admiro",
-      "retweets": 0,
-      "subjectivity": 1,
-      "user": "araceli_sisi"
-    },
-    {
-      "coordinates": null,
-      "polarity": 0,
-      "text": "RT @AIPAC: Urge your representative in the House to support the #Hezbollah International Financing Prevention Act of 2015 https://t.co/81WI…",
-      "retweets": 4,
-      "subjectivity": 0,
-      "user": "Israelifreedom"
-    },
-    {
-      "coordinates": null,
-      "polarity": 1,
-      "text": "I just watched an awesome #YouNow broadcast. undefined",
-      "retweets": 0,
-      "subjectivity": 1,
-      "user": "araceli_sisi"
-    },
-    {
-      "coordinates": null,
-      "polarity": 0.08750000000000002,
-      "text": "I've entered to win with Reader's Warehouse, Jonathan Ball, Penguin Random House & Pan Macmillan you should too! undefined",
-      "retweets": 0,
-      "subjectivity": 0.45,
-      "user": "FerrariSnyman"
-    },
-    {
-      "coordinates": null,
-      "polarity": 0,
-      "text": "@GeorgeShiber In his attempt (Krauss) @BernardoKastrup left terms undefined. Here he confuses them. \"Outside\" C presupposes an inside.",
-      "retweets": 0,
-      "subjectivity": 0.025,
-      "user": "PhiloNatural"
-    },
-    {
-      "coordinates": null,
-      "polarity": 0,
-      "text": "undefined method in Ruby https://t.co/GjPHP1cyEY",
-      "retweets": 0,
-      "subjectivity": 0,
-      "user": "rubyatStackO"
-    },
-    {
-      "coordinates": null,
-      "polarity": 0,
-      "text": "RT @RNRArkansas: Sign the Petition #NoRefugees #RedNationRising #WakeUpAmerica #tcot #ccot  https://t.co/x4WsQlTY5d",
-      "retweets": 8,
-      "subjectivity": 0,
-      "user": "ozarkrambler"
-    },
-    {
-      "coordinates": null,
-      "polarity": 0,
-      "text": "NYT: “Marco Rubio Quietly Undermines Affordable Care Act” https://t.co/xztCWm3Cjd \n#TeamMarco",
-      "retweets": 1,
-      "subjectivity": 0.3333333333333333,
-      "user": "ImWithRubio"
-    },
-    {
-      "coordinates": null,
-      "polarity": 0,
-      "text": "DNA Self-Discovery Kit from ConnectMyDNA https://t.co/Iz49P1UVVp via @LivingSocial",
-      "retweets": 0,
-      "subjectivity": 0,
-      "user": "Hippie_Spirit"
-    },
-    {
-      "coordinates": null,
-      "polarity": 0,
-      "text": "$35 for $200 https://t.co/sIUFt6Dqa4 eGift Card https://t.co/TRQR4h1f1L via @LivingSocial",
-      "retweets": 0,
-      "subjectivity": 0,
-      "user": "pathwaymom"
-    },
-    {
-      "coordinates": null,
-      "polarity": 0,
-      "text": "Imagine a party running on, say, tax policy that consisted of \"we'll change the status quo in some undefined way\". https://t.co/EUt1eOiKbs",
-      "retweets": 1,
-      "subjectivity": 0,
-      "user": "awudrick"
-    },
-    {
-      "coordinates": null,
-      "polarity": 0,
-      "text": "RT @AIPAC: Urge your representative in the House to support the #Hezbollah International Financing Prevention Act of 2015 https://t.co/81WI…",
-      "retweets": 4,
-      "subjectivity": 0,
-      "user": "X1000D"
-    },
-    {
-      "coordinates": null,
-      "polarity": 1,
-      "text": "So this was a great deal! Renewed my BJs membership for $19 bucks. #youarewelcome  https://t.co/c1oTh1ivzd via @LivingSocial",
-      "retweets": 0,
+      "retweetCount": 111,
+      "username": "anegal",
       "subjectivity": 0.75,
-      "user": "Jus_Words"
+      "text": "RT @Inc: Oprah: The Most Important Thing I've Learned About Branding https://t.co/FIrPYzrgzD https://t.co/snTRIctTdi"
     },
     {
+      "polarity": 0.2,
+      "createdAt": "Wed Dec 09 18:01:09 +0000 2015",
       "coordinates": null,
-      "polarity": 0,
-      "text": "RT @AIPAC: Urge your representative in the House to support the #Hezbollah International Financing Prevention Act of 2015 https://t.co/81WI…",
-      "retweets": 4,
-      "subjectivity": 0,
-      "user": "ThisGuysTaint"
+      "retweetCount": 0,
+      "username": "WiseIguanaMedia",
+      "subjectivity": 0.3,
+      "text": "What is #Branding? Why do I need it? The Very Fisrt Reason: https://t.co/wPM2yZkB9D https://t.co/YqnV7INYJR"
     },
     {
+      "polarity": 0.5625,
+      "createdAt": "Wed Dec 09 18:00:58 +0000 2015",
       "coordinates": null,
-      "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
-      "subjectivity": 0,
-      "user": "LocaDotIn"
+      "retweetCount": 1,
+      "username": "VikramKamboj",
+      "subjectivity": 0.5,
+      "text": "RT @CardozaGab: Ways to make your About Me more interesting! \n#Branding #PersonalBrand \n\nhttps://t.co/ulOGknFtED via @Entrepreneur by @Publ…"
     },
     {
+      "polarity": 0.25,
+      "createdAt": "Wed Dec 09 18:00:51 +0000 2015",
       "coordinates": null,
-      "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
-      "subjectivity": 0,
-      "user": "benita_gardner"
+      "retweetCount": 0,
+      "username": "mpecdesign",
+      "subjectivity": 0.5,
+      "text": "Companies #Uttoxeter #Tutbury #Burton need #branding or #marketing material? Contact us - local creative #graphicdesign agency. All #budgets"
     },
     {
-      "coordinates": null,
       "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
+      "createdAt": "Wed Dec 09 18:00:44 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 0,
+      "username": "JimMorgan1960",
       "subjectivity": 0,
-      "user": "trimarchikarry"
+      "text": "WEDC rolling out state branding ideas @ #FutureWI"
     },
     {
+      "polarity": 0.25,
+      "createdAt": "Wed Dec 09 18:00:40 +0000 2015",
       "coordinates": null,
-      "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
-      "subjectivity": 0,
-      "user": "olaghaskins"
+      "retweetCount": 0,
+      "username": "GoSocialExperts",
+      "subjectivity": 0.75,
+      "text": "The 20 Most Viral Ads of 2015 From humor to heartfelt 2015 had it all. https://t.co/JenKaa8m3W"
     },
     {
+      "polarity": -0.15555555555555559,
+      "createdAt": "Wed Dec 09 18:00:38 +0000 2015",
       "coordinates": null,
-      "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
-      "subjectivity": 0,
-      "user": "cabellmalissa"
+      "retweetCount": 0,
+      "username": "Ingredient1",
+      "subjectivity": 0.2888888888888889,
+      "text": "You have two granolas in your hand. You read the packages & put one down. What prompts that decision? https://t.co/yE5cAvllNi"
     },
     {
-      "coordinates": null,
       "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
+      "createdAt": "Wed Dec 09 18:00:35 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 0,
+      "username": "samrubik",
       "subjectivity": 0,
-      "user": "CarmelaMortilla"
+      "text": "YO BRANDING LIKE USPA"
     },
     {
+      "polarity": 0.5,
+      "createdAt": "Wed Dec 09 18:00:30 +0000 2015",
       "coordinates": null,
-      "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
-      "subjectivity": 0,
-      "user": "MargueriteTesar"
+      "retweetCount": 0,
+      "username": "ambience_design",
+      "subjectivity": 0.5,
+      "text": "More companies are recognizing the importance for #branding into their office spaces\nhttps://t.co/isXBidsXee\n#design https://t.co/B9TINfWhP1"
     },
     {
+      "polarity": 0.14642857142857144,
+      "createdAt": "Wed Dec 09 18:00:28 +0000 2015",
       "coordinates": null,
-      "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
-      "subjectivity": 0,
-      "user": "AlineStirling"
+      "retweetCount": 0,
+      "username": "yodermaker",
+      "subjectivity": 0.45178571428571423,
+      "text": "The joy of being an independent agency guy is being able to stay home with a sick son. \n\n#priorities #advertising #branding"
     },
     {
+      "polarity": 0.26666666666666666,
+      "createdAt": "Wed Dec 09 18:00:27 +0000 2015",
       "coordinates": null,
-      "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
-      "subjectivity": 0,
-      "user": "GenevaPang"
+      "retweetCount": 0,
+      "username": "0214NewBiz",
+      "subjectivity": 0.41666666666666663,
+      "text": "Creating Strong Calls To Action In Your Videos - https://t.co/yNfyNqUbha #vlogger #videomarketing #smm #video #smallbiz #branding"
     },
     {
+      "polarity": 1,
+      "createdAt": "Wed Dec 09 18:00:27 +0000 2015",
       "coordinates": null,
-      "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
-      "subjectivity": 0,
-      "user": "BrynnaRybalov"
+      "retweetCount": 0,
+      "username": "0414NBiz",
+      "subjectivity": 1,
+      "text": "Tips For Producing Excellent YouTube, Podcast & Blog Content, To Help Brand - https://t.co/5d6aVmlZOK #branding #brand #influence"
     },
     {
-      "coordinates": null,
       "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
+      "createdAt": "Wed Dec 09 18:00:22 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 0,
+      "username": "VanesaMarketing",
       "subjectivity": 0,
-      "user": "toveteague"
+      "text": "How to Build Up Your Influence on #SocialMedia - https://t.co/nfRmlnTFPQ #Marketing #Branding"
     },
     {
+      "polarity": 1,
+      "createdAt": "Wed Dec 09 18:00:21 +0000 2015",
       "coordinates": null,
-      "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
-      "subjectivity": 0,
-      "user": "jollymarje"
+      "retweetCount": 0,
+      "username": "growyourbiz101",
+      "subjectivity": 0.3,
+      "text": "#Business building w/ #branding & website Analysis w/ TARA KENNEDY-KLINE best #TalkRadio LISTEN: https://t.co/mOYIpvNMVG Also on #ITUNES"
     },
     {
-      "coordinates": null,
       "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
+      "createdAt": "Wed Dec 09 18:00:20 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 0,
+      "username": "BoogsBeatClub",
       "subjectivity": 0,
-      "user": "PFryberger"
+      "text": "https://t.co/lgQCrI5uSZ GOT YOU ON PROMO STRATEGY AND BRANDING HIT US UP https://t.co/XCZYzSvlgV"
     },
     {
+      "polarity": 0.03333333333333333,
+      "createdAt": "Wed Dec 09 18:00:11 +0000 2015",
       "coordinates": null,
-      "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
-      "subjectivity": 0,
-      "user": "bootgoodwin"
+      "retweetCount": 3,
+      "username": "GrowthHackerAm",
+      "subjectivity": 0.06666666666666667,
+      "text": "How To Find Your Brand’s Social Truth https://t.co/cDW9sCiBFy #socialmedia #branding #truth"
     },
     {
+      "polarity": 0.5,
+      "createdAt": "Wed Dec 09 18:00:11 +0000 2015",
       "coordinates": null,
-      "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
-      "subjectivity": 0,
-      "user": "MelodyWeil"
+      "retweetCount": 0,
+      "username": "ColibriTool",
+      "subjectivity": 0.5,
+      "text": "5 Ways to Build A More Valuable Brand #branding #marketing https://t.co/srGahjN13M"
     },
     {
-      "coordinates": null,
       "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
+      "createdAt": "Wed Dec 09 18:00:11 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 1,
+      "username": "pjmcgov",
       "subjectivity": 0,
-      "user": "dionebyall"
+      "text": "RT @ologie: When nonprofits can't sum up everything they do in a name: https://t.co/kPJae11feQ @nytimes #branding"
     },
     {
-      "coordinates": null,
       "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
-      "subjectivity": 0,
-      "user": "MarianNychka"
+      "createdAt": "Wed Dec 09 18:00:10 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 0,
+      "username": "Meddleit",
+      "subjectivity": 0.3,
+      "text": "Personal Branding is (also) about being recognized at the job you have https://t.co/B7oKcNiymG #personalbrand"
     },
     {
+      "polarity": 0.5,
+      "createdAt": "Wed Dec 09 18:00:09 +0000 2015",
       "coordinates": null,
-      "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
-      "subjectivity": 0,
-      "user": "FilippucciMabel"
+      "retweetCount": 27,
+      "username": "theentreflaneur",
+      "subjectivity": 0.5,
+      "text": "RT @Adweek: The 10 most watched ads on YouTube in 2015. https://t.co/CJMvX3g5n3 https://t.co/9a3AW5rnlD"
     },
     {
+      "polarity": 0.15,
+      "createdAt": "Wed Dec 09 18:00:09 +0000 2015",
       "coordinates": null,
-      "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
-      "subjectivity": 0,
-      "user": "ridenhourmyke"
+      "retweetCount": 0,
+      "username": "loop_creative",
+      "subjectivity": 0.55,
+      "text": "'TV #idents provide a few seconds of magic that encapsulate the character and personality of the channel' https://t.co/zHtL03P9dk #branding"
     },
     {
+      "polarity": -0.0763888888888889,
+      "createdAt": "Wed Dec 09 18:00:06 +0000 2015",
       "coordinates": null,
-      "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
-      "subjectivity": 0,
-      "user": "HanserBridgett"
+      "retweetCount": 0,
+      "username": "irishIMguy",
+      "subjectivity": 0.38055555555555554,
+      "text": "RT Christie_Lazo Hard to believe that major retail brands have not yet properly switched their sites to mobile. It's 2015! #Branding #Digit…"
     },
     {
+      "polarity": 0.5,
+      "createdAt": "Wed Dec 09 18:00:06 +0000 2015",
       "coordinates": null,
-      "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
-      "subjectivity": 0,
-      "user": "cheryl_parish"
+      "retweetCount": 0,
+      "username": "jacks_group",
+      "subjectivity": 0.6,
+      "text": "“I believe my branding inspires confidence.\" We love #HappyClients https://t.co/9KpDmU1q2U https://t.co/yOGEnD0YO2"
     },
     {
-      "coordinates": null,
       "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
+      "createdAt": "Wed Dec 09 18:00:05 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 1,
+      "username": "proxbomb",
       "subjectivity": 0,
-      "user": "manninglewiss"
+      "text": "RT @DEMLYdesign: Think you can skimp on #branding your #startup or #smallbusiness? Think again. https://t.co/WHpGvGF7A4 https://t.co/UY8lKJ…"
     },
     {
+      "polarity": -0.025,
+      "createdAt": "Wed Dec 09 18:00:04 +0000 2015",
       "coordinates": null,
-      "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
-      "subjectivity": 0,
-      "user": "AngeliniIris"
+      "retweetCount": 0,
+      "username": "RedSeatHiring",
+      "subjectivity": 0.4,
+      "text": "Your current branding efforts should be about where you want to go, not where you've already been. Focus on the long term #PersonalBrand"
     },
     {
-      "coordinates": null,
       "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
+      "createdAt": "Wed Dec 09 18:00:02 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 0,
+      "username": "Dan_Antonelli",
       "subjectivity": 0,
-      "user": "MaierFran"
+      "text": "Discover 3 reasons #plumbers should adopt retro #branding: https://t.co/1wcFukGZsd #logodesign #logo https://t.co/GCEK79nVgK"
     },
     {
+      "polarity": 0.35,
+      "createdAt": "Wed Dec 09 18:00:01 +0000 2015",
       "coordinates": null,
-      "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
-      "subjectivity": 0,
-      "user": "AmaralTamera"
+      "retweetCount": 0,
+      "username": "MaiteFinch",
+      "subjectivity": 0.25,
+      "text": "The Importance of Happiness at Work | Personal Branding Blog - Stand Out In Your Career | @scoopit https://t.co/1zJm8HNXvY"
     },
     {
+      "polarity": 0.5,
+      "createdAt": "Wed Dec 09 17:59:58 +0000 2015",
       "coordinates": null,
-      "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
-      "subjectivity": 0,
-      "user": "JudgeAlicia"
+      "retweetCount": 0,
+      "username": "Bigideasmachine",
+      "subjectivity": 0.5,
+      "text": "The 10 Most Watched Ads on #YouTube in 2015 https://t.co/QXuLsBqwb6 #advertising https://t.co/YuF7mpQQqs"
     },
     {
+      "polarity": 0.4681818181818182,
+      "createdAt": "Wed Dec 09 17:59:58 +0000 2015",
       "coordinates": null,
-      "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
-      "subjectivity": 0,
-      "user": "ardamaass"
+      "retweetCount": 0,
+      "username": "designopinion",
+      "subjectivity": 0.42727272727272725,
+      "text": "Do you provide logo and branding services? Win new biz over @ https://t.co/ykaJjeTBk4 https://t.co/VpvvGktEfi"
     },
     {
+      "polarity": 1,
+      "createdAt": "Wed Dec 09 17:59:58 +0000 2015",
       "coordinates": null,
-      "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
-      "subjectivity": 0,
-      "user": "marenadourian"
+      "retweetCount": 0,
+      "username": "DNPurveyor",
+      "subjectivity": 1,
+      "text": "https://t.co/hurQ63eGOe  is an excellent name for those who make #cakes! #cakemaker #entrepreneur #Branding #BirthdayCake #Baking #Cake"
     },
     {
-      "coordinates": null,
       "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
+      "createdAt": "Wed Dec 09 17:59:45 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 0,
+      "username": "Carlfrance2",
       "subjectivity": 0,
-      "user": "MarsdenSusie"
+      "text": "3 Trends Transforming How We Watch Ads https://t.co/Sb1zSibe7I"
     },
     {
+      "polarity": 0.5,
+      "createdAt": "Wed Dec 09 17:59:45 +0000 2015",
       "coordinates": null,
-      "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
-      "subjectivity": 0,
-      "user": "JoniTrumble"
+      "retweetCount": 0,
+      "username": "Carlfrance2",
+      "subjectivity": 0.5,
+      "text": "The 10 Most Watched Ads on YouTube in 2015 https://t.co/UekQLsQWdt"
     },
     {
-      "coordinates": null,
       "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
+      "createdAt": "Wed Dec 09 17:59:44 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 0,
+      "username": "Carlfrance2",
       "subjectivity": 0,
-      "user": "aisha_julian"
+      "text": "Take a Look Inside the Shop Known for Turning Holiday Windows Into Spectacles https://t.co/KbP5kx5tug"
     },
     {
+      "polarity": 0.4,
+      "createdAt": "Wed Dec 09 17:59:44 +0000 2015",
       "coordinates": null,
-      "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
-      "subjectivity": 0,
-      "user": "hembrowharli"
+      "retweetCount": 0,
+      "username": "DNPurveyor",
+      "subjectivity": 0.875,
+      "text": "https://t.co/L6fRQwdhzO  is a great domain to build confidence for potential clients in your #Lawfirm! #Law #Branding #Marketing #Attorney"
     },
     {
-      "coordinates": null,
       "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
+      "createdAt": "Wed Dec 09 17:59:34 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 0,
+      "username": "KimberlyToombs",
       "subjectivity": 0,
-      "user": "BertieSobel"
+      "text": "#AdvertisingampBranding #Youtube 3 Trends Transforming How We Watch Ads: About a year ago, I was stranded in my… https://t.co/zRNwnZgEQY"
     },
     {
+      "polarity": 0.19999999999999998,
+      "createdAt": "Wed Dec 09 17:59:33 +0000 2015",
       "coordinates": null,
-      "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
-      "subjectivity": 0,
-      "user": "verbiccarolina"
+      "retweetCount": 0,
+      "username": "KimberlyToombs",
+      "subjectivity": 0.6333333333333333,
+      "text": "#YouTubeAdsLeaderboard #AdvertisingampBranding #Creative The 10 Most Watched Ads on YouTube in 2015: Game maker… https://t.co/5W6nsrJHMR"
     },
     {
+      "polarity": 0.1,
+      "createdAt": "Wed Dec 09 17:59:25 +0000 2015",
       "coordinates": null,
-      "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
-      "subjectivity": 0,
-      "user": "molliegriesenb1"
+      "retweetCount": 1,
+      "username": "illregular215",
+      "subjectivity": 0.6000000000000001,
+      "text": "RT @Team_DLH: @illregular215 Get Connected With Music Executive @DarnellHodges Firm @DlhMediaGrp For A Free Consultation, Branding, And Med…"
     },
     {
+      "polarity": 0.13636363636363635,
+      "createdAt": "Wed Dec 09 17:59:21 +0000 2015",
       "coordinates": null,
-      "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
-      "subjectivity": 0,
-      "user": "levonslowey"
+      "retweetCount": 1,
+      "username": "didsburylife",
+      "subjectivity": 0.45454545454545453,
+      "text": "RT @WeAreLifeDesign: New branding & holding page for new client @ReflexologyAlti - based @eleganttouchm20 W #Didsbury & also #mobile. https…"
     },
     {
-      "coordinates": null,
       "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
+      "createdAt": "Wed Dec 09 17:59:20 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 0,
+      "username": "FairPlayIcon",
       "subjectivity": 0,
-      "user": "CarlaZaitlin"
+      "text": "How to Build Up Your Influence on #SocialMedia - https://t.co/ducAxFniLL #Marketing #Branding"
     },
     {
+      "polarity": -0.375,
+      "createdAt": "Wed Dec 09 17:59:15 +0000 2015",
       "coordinates": null,
-      "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
-      "subjectivity": 0,
-      "user": "sigismondrabi"
+      "retweetCount": 3,
+      "username": "Quack_Daniel",
+      "subjectivity": 0.5625,
+      "text": "RT @HarryRamble: [re-branding strategy meeting]\n\nsee it's the same Bible but instead of gospels, it's a series of boss fights until you get…"
     },
     {
+      "polarity": 1,
+      "createdAt": "Wed Dec 09 17:59:14 +0000 2015",
       "coordinates": null,
-      "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
-      "subjectivity": 0,
-      "user": "ezequiellynah"
+      "retweetCount": 0,
+      "username": "stephenriley",
+      "subjectivity": 0.3,
+      "text": "6 Best Branding Books Every Entrepreneur Needs to Read https://t.co/HBGZM2Kkua via @wearemotto"
     },
     {
-      "coordinates": null,
       "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
-      "subjectivity": 0,
-      "user": "HameedLouise"
+      "createdAt": "Wed Dec 09 17:59:10 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 616,
+      "username": "mariajuliapcv",
+      "subjectivity": 0.41071428571428575,
+      "text": "RT @TheVampsJames: Line of work. If someone simply turns up and fights or plays without such branding, keeping themselves private... @Shela…"
     },
     {
-      "coordinates": null,
       "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
+      "createdAt": "Wed Dec 09 17:59:05 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 0,
+      "username": "BW_Collingwood",
       "subjectivity": 0,
-      "user": "DicesareErika"
+      "text": "Employer Branding - What's it all about? Find out here -  https://t.co/b4MzQzH5HK https://t.co/pJsPMPM8zz"
     },
     {
+      "polarity": 0.5625,
+      "createdAt": "Wed Dec 09 17:59:05 +0000 2015",
       "coordinates": null,
-      "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
-      "subjectivity": 0,
-      "user": "MandyLomeli"
+      "retweetCount": 1,
+      "username": "CardozaGab",
+      "subjectivity": 0.5,
+      "text": "Ways to make your About Me more interesting! \n#Branding #PersonalBrand \n\nhttps://t.co/ulOGknFtED via @Entrepreneur by @PublicityHound"
     },
     {
+      "polarity": 0.13636363636363635,
+      "createdAt": "Wed Dec 09 17:59:05 +0000 2015",
       "coordinates": null,
-      "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
-      "subjectivity": 0,
-      "user": "xiakrysta"
+      "retweetCount": 0,
+      "username": "Reith_Photo",
+      "subjectivity": 0.5,
+      "text": "LIVE on #Periscope: Scope Update 3 p.m. E. #branding #design  https://t.co/Xm9GEVHIsu"
     },
     {
+      "polarity": 0.4,
+      "createdAt": "Wed Dec 09 17:58:57 +0000 2015",
       "coordinates": null,
-      "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
-      "subjectivity": 0,
-      "user": "ElvaBlanc"
+      "retweetCount": 0,
+      "username": "boazbranding",
+      "subjectivity": 0.8,
+      "text": "boaz branding | Free Holiday Design Elements from GraphicStock: Explore these free holi... https://t.co/opA33ocMI1 https://t.co/iODWj3hQ5x"
     },
     {
+      "polarity": 0.45000000000000007,
+      "createdAt": "Wed Dec 09 17:58:49 +0000 2015",
       "coordinates": null,
-      "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
-      "subjectivity": 0,
-      "user": "shaikhnatka"
+      "retweetCount": 0,
+      "username": "DNPurveyor",
+      "subjectivity": 0.65,
+      "text": "Huge list of available domains (some include websites) over at https://t.co/8GVTpomErO … Contact to purchase them! #investing #branding"
     },
     {
+      "polarity": 0.1,
+      "createdAt": "Wed Dec 09 17:58:48 +0000 2015",
       "coordinates": null,
-      "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
-      "subjectivity": 0,
-      "user": "seowelenore"
+      "retweetCount": 0,
+      "username": "Team_DLH",
+      "subjectivity": 0.6000000000000001,
+      "text": "@W3BALLCEO Get Connected With Music Executive @DarnellHodges Firm @DlhMediaGrp For A Free Consultation, Branding, And Media Placements"
     },
     {
+      "polarity": -0.015151515151515152,
+      "createdAt": "Wed Dec 09 17:58:35 +0000 2015",
       "coordinates": null,
-      "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
-      "subjectivity": 0,
-      "user": "BiancaVafa"
+      "retweetCount": 5,
+      "username": "HELKUU",
+      "subjectivity": 0.44393939393939397,
+      "text": "RT @jesseketonen: Simplicity is the new black. #branding #CX #digitalist @HarvardHBS https://t.co/YJutt2NuaX"
     },
     {
-      "coordinates": null,
       "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
+      "createdAt": "Wed Dec 09 17:58:28 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 1,
+      "username": "DEMLYdesign",
       "subjectivity": 0,
-      "user": "beckman_esther"
+      "text": "Think you can skimp on #branding your #startup or #smallbusiness? Think again. https://t.co/WHpGvGF7A4 https://t.co/UY8lKJJhPz"
     },
     {
-      "coordinates": null,
       "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
-      "subjectivity": 0,
-      "user": "perkoezra"
+      "createdAt": "Wed Dec 09 17:58:23 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 616,
+      "username": "tabbycooper93",
+      "subjectivity": 0.41071428571428575,
+      "text": "RT @TheVampsJames: Line of work. If someone simply turns up and fights or plays without such branding, keeping themselves private... @Shela…"
     },
     {
-      "coordinates": null,
       "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
+      "createdAt": "Wed Dec 09 17:58:22 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 0,
+      "username": "PromoIcemoon_CH",
       "subjectivity": 0,
-      "user": "finchmimi"
+      "text": "https://t.co/Wj1tEGBDN5 @djicemoon | LWH Embroidered Baseball Cap Hat #furniture #branding #djicemoon #edm #onlineshopping #giveaway #Music"
     },
     {
+      "polarity": 0.3,
+      "createdAt": "Wed Dec 09 17:58:22 +0000 2015",
       "coordinates": null,
-      "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
+      "retweetCount": 0,
+      "username": "BWN_Weekly",
       "subjectivity": 0,
-      "user": "EarleneSharples"
+      "text": "Are YOU Making These Branding Mistakes? ♫ https://t.co/HKivovxQKs #inspiration #branding #strategist #success #sales #smm"
     },
     {
+      "polarity": 0.1,
+      "createdAt": "Wed Dec 09 17:58:19 +0000 2015",
       "coordinates": null,
-      "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
-      "subjectivity": 0,
-      "user": "BetteSemuels"
+      "retweetCount": 0,
+      "username": "Team_DLH",
+      "subjectivity": 0.6000000000000001,
+      "text": "@PAT54191879 Get Connected With Music Executive @DarnellHodges Firm @DlhMediaGrp For A Free Consultation, Branding, And Media Placements"
     },
     {
-      "coordinates": null,
       "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
-      "subjectivity": 0,
-      "user": "nixcharyl"
+      "createdAt": "Wed Dec 09 17:58:04 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 616,
+      "username": "nicolettelong24",
+      "subjectivity": 0.41071428571428575,
+      "text": "RT @TheVampsJames: Line of work. If someone simply turns up and fights or plays without such branding, keeping themselves private... @Shela…"
     },
     {
+      "polarity": 0.1,
+      "createdAt": "Wed Dec 09 17:57:55 +0000 2015",
       "coordinates": null,
-      "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
-      "subjectivity": 0,
-      "user": "daly_rosalyn"
+      "retweetCount": 0,
+      "username": "RedditDesign",
+      "subjectivity": 0.35,
+      "text": "Designing Brand Identity: An Essential Guide for the Whole Branding Team, 4th Edition https://t.co/28iynSXXTc"
     },
     {
+      "polarity": 0.1,
+      "createdAt": "Wed Dec 09 17:57:48 +0000 2015",
       "coordinates": null,
-      "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
-      "subjectivity": 0,
-      "user": "GardinerVenita"
+      "retweetCount": 0,
+      "username": "naganalhsoj",
+      "subjectivity": 0.4,
+      "text": "@USMCPipeliner @MichaelBerrySho you and me both brother. We'd go to the Branding Iron near LA. Plenty of hogs out there."
     },
     {
+      "polarity": 0.09318181818181817,
+      "createdAt": "Wed Dec 09 17:57:19 +0000 2015",
       "coordinates": null,
-      "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
-      "subjectivity": 0,
-      "user": "roche_liza"
+      "retweetCount": 0,
+      "username": "ATERO_Marketing",
+      "subjectivity": 0.30227272727272725,
+      "text": "Branding Strategy on the Heels of the New Year: Whether personally or in business, the New Year offers all of ... https://t.co/uPJ8YDWU5e"
     },
     {
+      "polarity": 0.13636363636363635,
+      "createdAt": "Wed Dec 09 17:57:17 +0000 2015",
       "coordinates": null,
+      "retweetCount": 0,
+      "username": "addfollowplus",
+      "subjectivity": 0.45454545454545453,
+      "text": "Rebranding NASA For A New Space Age https://t.co/he2vekLcIY 💚  🌎"
+    },
+    {
       "polarity": 0,
-      "text": "RT @HumanFeeds: Their Gender Is Undefined https://t.co/sVCEVv5CwA https://t.co/9nyEYm8CrM",
-      "retweets": 67,
+      "createdAt": "Wed Dec 09 17:57:12 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 0,
+      "username": "3DThinking",
       "subjectivity": 0,
-      "user": "nelievanyo"
+      "text": "#3DAL 3 Trends Transforming How We Watch Ads https://t.co/8KjAgyltZy"
+    },
+    {
+      "polarity": 0.13636363636363635,
+      "createdAt": "Wed Dec 09 17:57:09 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 0,
+      "username": "LubnaMaliq",
+      "subjectivity": 0.45454545454545453,
+      "text": "You are requested to visit & follow this new LinkedIn page and get concept of #branding Yourself.\nhttps://t.co/mJJj9nLecM"
+    },
+    {
+      "polarity": 0.8719308035714286,
+      "createdAt": "Wed Dec 09 17:57:08 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 0,
+      "username": "NubianSpheres",
+      "subjectivity": 0.5714285714285714,
+      "text": "@rakeebwize is having a dope Holiday special!!!! Don't miss out on Branding your business for the… https://t.co/3HqJqgUQa8"
+    },
+    {
+      "polarity": 0.25,
+      "createdAt": "Wed Dec 09 17:57:06 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 0,
+      "username": "birdsongcreativ",
+      "subjectivity": 0.25,
+      "text": "Branding, web design, ideation, stellar copywriting. We do it all & we do it well. https://t.co/1idfy2dUtH #FranklinTN #Nashville"
+    },
+    {
+      "polarity": -0.4,
+      "createdAt": "Wed Dec 09 17:57:04 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 0,
+      "username": "Beacon_Creative",
+      "subjectivity": 0.7,
+      "text": "Behind door 9 #alice #advent #aliceinwonderland #branding #disney https://t.co/AzAW9XweKw"
+    },
+    {
+      "polarity": 0,
+      "createdAt": "Wed Dec 09 17:57:01 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 1,
+      "username": "NEYCAG",
+      "subjectivity": 0.3,
+      "text": "RT @followNCASS: What is personal branding? @cabacharity @NEYCAG https://t.co/HAMULyTMTB"
+    },
+    {
+      "polarity": 0.03125,
+      "createdAt": "Wed Dec 09 17:56:41 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 0,
+      "username": "ego_inc",
+      "subjectivity": 0.14375,
+      "text": "Something Fun! #Business Cards: Past, Present & Future https://t.co/plnFmzr7sN"
+    },
+    {
+      "polarity": 0.5,
+      "createdAt": "Wed Dec 09 17:56:33 +0000 2015",
+      "coordinates": null,
+      "retweetCount": 0,
+      "username": "whitehotmonkey",
+      "subjectivity": 1,
+      "text": "Revised version for PetPlan. #creative #designer #phototoshop #cmyk #branding  #businesscard… https://t.co/Oaw3rLzflw"
     }
   ],
-  "subjectivity": 0.06821666666666668,
+  "polarity": 0.18597453891594523,
   "count": 100,
-  "polarity": 0.0719
+  "subjectivity": 0.35356556637806635
 }

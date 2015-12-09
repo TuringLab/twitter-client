@@ -2,3 +2,12 @@
 li {
   padding: 5px;
 }
+
+
+.positive {
+  color: green;
+}
+
+.negative {
+  color: red;
+}
