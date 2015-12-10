@@ -1,26 +1,39 @@
-<!DOCTYPE html>
 <html>
 <head>
   <title>TuringLab Twitter</title>
 
   <!-- Import jQuery -->
   <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+  
+  <!-- Import Highcharts -->
+  <script src="https://code.highcharts.com/highcharts.js"></script>
+  <script src="https://code.highcharts.com/highcharts-more.js"></script>
+  <script src="https://code.highcharts.com/modules/exporting.js"></script>
 
-  <!-- Add our own script -->
+  <!-- Import Local -->
   <script type="text/javascript" src="script.js"></script>
-
-  <!-- Add out own stylesheet -->
-  <link rel="stylesheet" type="text/css" href="style.css"></link>
+  <link rel="stylesheet" type="text/css" href="style.css">
 
 </head>
 <body>
-  <div>
-    Your Query: <input id="query" value="christmas"/>
-    <button onClick="update()">Update</button>
-  </div>
-  <div>
-    <pre id="results"></pre>
-    <ul id="tweets"></ul>
+  <div class="container">
+    <div id="queryBox">
+      Your Query: 
+      <input id="query" value="christmas"/>
+      <button onClick="update()">Update</button>
+    </div>
+    <div class="radios">
+      <input type="radio" name="radios" value="bubble" onclick="handleRadio(this);" class="input" checked>Bubble Chart
+      <input type="radio" name="radios" value="bar" 
+      onclick="handleRadio(this);">Bar Chart
+      <input type="radio" name="radios" value="list" onclick="handleRadio(this);">Tweet List
+    </div>
+    <div id="list">
+      <pre id="results"></pre>
+      <ul id="tweets"></ul>
+    </div>
+    <div id="bar">bar</div>
+    <div id="bubble">bubble</div>
   </div>
 </body>
 </html>
