@@ -30,7 +30,8 @@ function TuringChart(handle,type,data){
         }],
         tooltip: {
             formatter: function(){
-                var text = this.point.text || this.point.name || '';
+                var text = this.point.text || this.point.name || false;
+                if (!text) return false;
                 return '<p>' + text + '</p>';
             }
         }
@@ -80,11 +81,13 @@ function TuringBubble(handle,data){
 }
 
 $(function(){
-    var chart = new TuringBubble('#bubble');
+    var chart = new TuringBubble('#bar');
 
-    chart.data([{name:'ballballs',y:-2},{name:'Christmas',y:20}]);
+    // chart.data([[10,-1,1000],[5,-1,500],[10,20,1]])
+
+    chart.data([{name:'ballballs',x:10,y:-2,z:1000},{name:'medium',x:10,y:10,z:500},{name:'Christmas',x:0,y:20,z:1}]);
     
-    // chart.axis({x:'Percentage',y:'Product'});
+    chart.axis({x:'Percentage',y:'Product'});
 
     // chart.labels(function() {
     //     return Math.ceil(100*this.value) + '%';
