@@ -27,34 +27,50 @@ function showBar(response) {
 
   for (var i in tweets){
     tweet = tweets[i];
+
+    if (tweet.polarity == 0) continue;
+
     data.push({
       text: tweet.text,
       y: tweet.polarity,
     });
   }
 
-  TuringBar('#bar',data);
+  var bar = new TuringBar('#bar',data);
+  bar.axis({y:'Polarity'});
+  bar.yLabels(function(){
+    return `${Math.floor(this.value * 100)}%`
+  })
+
 }
 
 function showBubble(response) {
 
   var tweet;
+  var date;
   var data = [];
 
   for(var i in response.tweets){ 
     tweet = response.tweets[i];
+    date = new Date(tweet.createdAt)
+
+    console.log(typeof date);
 
     data.push({
       text: tweet.text,
-      x: new Date(tweet.createdAt),
-      y: tweet.polarity,
-      // y: 10,
-      z: tweet.text.length
+      x: tweet.polarity,
+      y: new Date(tweet.createdAt),
+      z: tweet.text.length,
     });
 
   };
 
-  TuringBubble('#bubble',data);
+  var bubble = new TuringBubble('#bubble',data);
+  bubble.axis({x:'Polarity',y:'Time'});
+  bubble.xLabels(function(){
+    return `${Math.floor(this.value * 100)}%`
+  })
+
 }
 
 function handleRadio(selected) {

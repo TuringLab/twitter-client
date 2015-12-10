@@ -1,4 +1,3 @@
-
 function TuringChart(handle,type,data){
 
     this.type = type;
@@ -37,8 +36,28 @@ function TuringChart(handle,type,data){
         }
     }
 
+    this.getData = function(axis) {
+        var point = this.options.series[0].data[0];
+        var lookup = { x:0, y:1, z:2 };
+        var entry = point[axis] || point[lookup[axis]];
+        return entry;
+    }
+
+    this.format = function(){
+        if (this.getData('x') instanceof Date) this.options.xAxis.type = 'datetime';
+        if (this.getData('y') instanceof Date) this.options.yAxis.type = 'datetime';
+
+        this.options.series[0].data = this.options.series[0].data.map((point) => {
+            if (point.x) point.x = Number(point.x);
+            if (point.y) point.y = Number(point.y);
+            if (point.z) point.z = Number(point.z);
+            return point;
+        })
+    }
+
     this.draw = function(){
         this.element.html();
+        this.format();
         this.chart = this.element.highcharts(this.options);   
     }
 
@@ -53,7 +72,14 @@ function TuringChart(handle,type,data){
         this.draw();
     }
 
-    this.labels = function(formatter){
+    this.xLabels = function(formatter){
+        this.options.xAxis.labels = {
+            formatter: formatter
+        };
+        this.draw();
+    }
+
+    this.yLabels = function(formatter){
         this.options.yAxis.labels = {
             formatter: formatter
         };
