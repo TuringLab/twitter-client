@@ -248,6 +248,6 @@ function addTweet(list, tweet) {
 }
 
 // When document loaded update data
-$(function(){
-    update('branding');
-});
+// $(function(){
+//     update('branding');
+// });
