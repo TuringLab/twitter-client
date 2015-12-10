@@ -73,29 +73,9 @@ function TuringChart(handle,type,data){
 function TuringBar(handle,data){
     var type = 'bar';
     TuringChart.call(this,handle,type,data);
-}
+};
 
 function TuringBubble(handle,data){
     var type = 'bubble';
     TuringChart.call(this,handle,type,data);
-}
-
-$(function(){
-    // var chart = new TuringBubble('#bar');
-
-    // chart.data([[10,-1,1000],[5,-1,500],[10,20,1]])
-
-    // chart.data([{name:'ballballs',x:10,y:-2,z:1000},{name:'medium',x:10,y:10,z:500},{name:'Christmas',x:0,y:20,z:1}]);
-    
-    // chart.axis({x:'Percentage',y:'Product'});
-
-    // chart.labels(function() {
-    //     return Math.ceil(100*this.value) + '%';
-    // })
-
-    // chart.tooltip(function() {
-    //     return '<b>' + this.series.name + ', tweet number ' + this.point.category + '</b><br/>' +
-    //         'Content: ' + this.tweets[this.point.index].text;
-    // });
-
-});
+};
