@@ -38,6 +38,7 @@ function TuringChart(handle,type,data){
     }
 
     this.draw = function(){
+        this.element.html();
         this.chart = this.element.highcharts(this.options);   
     }
 
