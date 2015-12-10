@@ -9,13 +9,14 @@ function update() {
 
   $.get(url,function(response){
     if (currentChart == "list") {
-      showTweets(response.tweets);
+      showList(response);
     } else if (currentChart == "bar") {
       showBar(response);
-    } else {
+    } else if (currentChart == "bubble"){
       showBubble(response);
+    } else {
+      showRaw(response);
     }
-    // showRaw(response);
   })
 }
 
@@ -54,8 +55,6 @@ function showBubble(response) {
     tweet = response.tweets[i];
     date = new Date(tweet.createdAt)
 
-    console.log(typeof date);
-
     data.push({
       text: tweet.text,
       x: tweet.polarity,
@@ -72,6 +71,28 @@ function showBubble(response) {
   })
 
 }
+
+
+
+// Display the raw data on the page
+function showRaw(data){
+  var string = JSON.stringify(data,null,2)
+  $('#results').html(string).show();
+}
+
+// Create a list of tweets
+function showList(response) {
+    var list = new TuringList('#list',response.tweets);
+    // list.formatter(function(tweet){
+    //     var div = $(document.createElement('div'));
+    //     if (tweet.polarity < 0){
+    //         div.addClass('negative')
+    //     }
+    //     div.html(`${tweet.text} <strong>${tweet.username}</strong>`)
+    //     return div;
+    // });
+}
+
 
 function handleRadio(selected) {
   if (selected.value == "bubble") {
@@ -95,53 +116,7 @@ function handleRadio(selected) {
   }
 }
 
-// Display the raw data on the page
-function showRaw(data){
-  var string = JSON.stringify(data,null,2)
-  $('#results').html(string).show();
-}
-
-// Create a list of tweets
-function showTweets(tweets) {
-  var list = $('#tweets');
-  list.html('');
-
-  // Loop through all tweets
-  for (var i in tweets){
-
-    // If the tweet has been retweeted then add a line to the list
-    addTweet(list,tweets[i]);
-  
-  }
-
-  // Show the list
-  list.show();
-}
-
-// Add an individual tweet to the page
-function addTweet(list, tweet) {
-
-  // Create a new line element
-  var line = $(document.createElement('li'));
-
-  // Set the inner html of the line
-  line.html(`${tweet.text} - <strong>${tweet.username}</strong>`);
-
-  // Change the style of the tweet depending on polarity
-  if (tweet.polarity < 0){
-    line.addClass('negative tweet')
-  } else {
-    line.addClass('positive tweet')
-  }
-
-  var date = new Date(tweet.createdAt);
-  console.log(date.getFullYear());
-
-  // Add the line to the list
-  list.append(line);
-}
-
 // When document loaded update data
-// $(function(){
-//     update('branding');
-// });
+$(function(){
+    update();
+});
