@@ -1,24 +1,41 @@
-currentChart = "list"
+
 // Update with new data from server
 function update() {
 
   var query = $('#query').val();
   var url = 'https://turing-twitter.herokuapp.com/' + query;
 
-  var url = 'data.json';
+  // var url = 'data.json';
+  var display = $('#display').val();
+  console.log(display);
 
   $.get(url,function(response){
-    if (currentChart == "list") {
+    if (display == "list") {
       showList(response);
-    } else if (currentChart == "bar") {
+    } else if (display == "bar") {
       showBar(response);
-    } else if (currentChart == "bubble"){
+    } else if (display == "bubble"){
       showBubble(response);
     } else {
-      showRaw(response);
+      alert('No display selected');
     }
   })
 }
+
+// Create a list of tweets
+function showList(response) {
+
+  var list = new TuringList('#results',response.tweets);
+  list.formatter(function(tweet){
+    var text = '<span">' + tweet.text + '</span>'
+    var user = '<strong style="float: right;">' + tweet.username + '</strong>'
+    if (tweet.polarity < 0){
+        return '<div class="negative">' + text + user + '</div>'
+    }
+    return '<div class="positive">' + text + user + '</div>'
+  });
+}
+
 
 function showBar(response) {
 
@@ -37,7 +54,7 @@ function showBar(response) {
     });
   }
 
-  var bar = new TuringBar('#bar',data);
+  var bar = new TuringBar('#results',data);
   bar.axis({y:'Polarity'});
   bar.yLabels(function(){
     return `${Math.floor(this.value * 100)}%`
@@ -64,55 +81,32 @@ function showBubble(response) {
 
   };
 
-  var bubble = new TuringBubble('#bubble',data);
+  var bubble = new TuringBubble('#results',data);
   bubble.axis({x:'Polarity',y:'Time'});
   bubble.xLabels(function(){
     return `${Math.floor(this.value * 100)}%`
   })
-
 }
 
+function select() {
+  var display = $('#display').val();
 
-
-// Display the raw data on the page
-function showRaw(data){
-  var string = JSON.stringify(data,null,2)
-  $('#results').html(string).show();
-}
-
-// Create a list of tweets
-function showList(response) {
-    var list = new TuringList('#list',response.tweets);
-    // list.formatter(function(tweet){
-    //     var div = $(document.createElement('div'));
-    //     if (tweet.polarity < 0){
-    //         div.addClass('negative')
-    //     }
-    //     div.html(`${tweet.text} <strong>${tweet.username}</strong>`)
-    //     return div;
-    // });
-}
-
-
-function handleRadio(selected) {
-  if (selected.value == "bubble") {
-    currentChart="bubble";
+  if (display == "bubble") {
     $('#list').hide();
     $('#bubble').show();
     $('#bar').hide();
-    update();
-  } else if (selected.value == "bar") {
-    currentChart="bar";
+  } else if (display == "bar") {
     $('#list').hide();
     $('#bubble').hide();
     $('#bar').show();
-    update()
-  } else {
-    currentChart="list";
+  } else if (display == "list")
     $('#list').show();
     $('#bubble').hide();
     $('#bar').hide();
-    update()
+  } else {
+    $('#list').hide();
+    $('#bubble').hide();
+    $('#bar').hide();
   }
 }
 

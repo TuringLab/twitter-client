@@ -11,29 +11,25 @@
   <script src="https://code.highcharts.com/modules/exporting.js"></script>
 
   <!-- Import Local -->
-  <script type="text/javascript" src="script.js"></script>
   <script type="text/javascript" src="turing-chart.js"></script>
   <script type="text/javascript" src="turing-list.js"></script>
+  <script type="text/javascript" src="script.js"></script>
   <link rel="stylesheet" type="text/css" href="style.css">
 
 </head>
 <body>
   <div class="container">
-    <div id="queryBox">
+    <div>
       Your Query: 
       <input id="query" value="christmas"/>
+      <select id="display" handleChange="select()">
+        <option value="list">List</option>
+        <option value="bubble">Bubble</option>
+        <option value="bar">Bar</option>
+      </select>
       <button onClick="update()">Update</button>
     </div>
-    <div class="radios">
-      <input type="radio" name="radios" value="bubble" onclick="handleRadio(this);" class="input" checked>Bubble Chart
-      <input type="radio" name="radios" value="bar" 
-      onclick="handleRadio(this);">Bar Chart
-      <input type="radio" name="radios" value="list" onclick="handleRadio(this);">Tweet List
-    </div>
-    <div id="results"></div>
-    <div id="list"></div>
-    <div id="bar" name="Bar Chart of Tweets"></div>
-    <div id="bubble" name="Bubble Chart of Tweets"></div>
+    <div id="results" name="RESULTS"></div>
   </div>
 </body>
 </html>

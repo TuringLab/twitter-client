@@ -9,8 +9,6 @@ function TuringList(handle,lines,format){
         return pre;
     }
 
-    console.log(this.format({a:'b'}))
-
     this.update = function(lines) {
         this.lines = lines;
         this.render();
