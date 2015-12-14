@@ -20,19 +20,23 @@
 </head>
 <body>
   <div class="container">
+    <div id="header">
+      <h1>Twitter Analysis</h1>
+      <p>Analyse past tweets which match a search query. Edit on <a href="http://codepen.io/turinglab/pen/EPjzKp">CodePen</a></p>
+    </div>
     <div id="query-box">
-      <h1>Your Query</h1>
+      <h4>Your Query</h4>
       <input id="query" value="christmas"/>
       <select id="display" handleChange="select()">
         <option value="list">List</option>
-        <option value="bubble">Bubble</option>
         <option value="bar">Bar</option>
+        <option value="bubble">Bubble</option>
       </select>
       <button onClick="update()">Update</button>
     </div>
-    <div id="list" name="List of Tweets"></div>
-    <div id="bar" name="Bar Chart of Tweets"></div>
-    <div id="bubble" name="Bubble Chart of Tweets"></div>
+    <div id="list" class="result" name="List of Tweets"></div>
+    <div id="bar" class="result" name="Bar Chart of Tweets"></div>
+    <div id="bubble" class="result" name="Bubble Chart of Tweets"></div>
   </div>
 </body>
 </html>
