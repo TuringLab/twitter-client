@@ -10,17 +10,18 @@
   <script src="https://code.highcharts.com/highcharts-more.js"></script>
   <script src="https://code.highcharts.com/modules/exporting.js"></script>
 
+  <!-- TuringLib -->
+  <script src="https://rawgit.com/TuringLab/turing-lib/master/turing-lib.js"></script>
+
   <!-- Import Local -->
-  <script type="text/javascript" src="turing-chart.js"></script>
-  <script type="text/javascript" src="turing-list.js"></script>
-  <script type="text/javascript" src="script.js"></script>
+  <script src="script.js"></script>
   <link rel="stylesheet" type="text/css" href="style.css">
 
 </head>
 <body>
   <div class="container">
-    <div>
-      Your Query: 
+    <div id="query-box">
+      <h1>Your Query</h1>
       <input id="query" value="christmas"/>
       <select id="display" handleChange="select()">
         <option value="list">List</option>
@@ -29,7 +30,9 @@
       </select>
       <button onClick="update()">Update</button>
     </div>
-    <div id="results" name="RESULTS"></div>
+    <div id="list" name="List of Tweets"></div>
+    <div id="bar" name="Bar Chart of Tweets"></div>
+    <div id="bubble" name="Bubble Chart of Tweets"></div>
   </div>
 </body>
 </html>

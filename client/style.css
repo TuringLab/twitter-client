@@ -9,13 +9,8 @@ ul {
 }
 
 li {
-  padding: 10px;
-}
-
-.radios {
-  width: 330px;
-  margin: 0 auto;
-  color: #00b9f1;
+  padding: 5px;
+  list-style: none;
 }
 
 .container {
@@ -31,16 +26,10 @@ li {
   background-color: #f7931d;
 }
 
-#queryBox {
-  width: 250px;
+#query-box {
+  width: 300px;
   margin: 0px auto;
   color: #00b9f1;
-  font-size: 40px;
-}
-
-.tweet {
-  margin: 10px;
-  color: white;
-  padding: 5px;
+  text-align: center;
 }
 
